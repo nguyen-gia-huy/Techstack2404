@@ -1,0 +1,63 @@
+.navbar-1{
+    border: 1px solid black;
+    padding: 10px 16px;
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    margin: 10px;
+}
+.navbar-1-logo{
+border: 1px solid black;
+background-color: #cdeb8b;
+padding: 8px 20px;
+}
+
+.navbar-1-page{
+display: flex;
+
+}
+.page{
+    padding: 8px 20px;
+    border: 1px solid black;
+    background-color: palevioletred ;
+}
+.boder-left-none{
+    border-left: none;
+}
+.boder-right-none{
+    border-right: none;
+}
+
+.menu{
+    display: flex;
+    
+}
+.menu div{
+    padding: 8px 20px;
+}
+.login{
+    border: 1px solid black;
+    background-color: #D5E8D4 ;
+}
+.menu div{
+    padding: 8px 20px;
+}
+
+.navbar-4{
+    border: 1px solid black;
+    padding: 10px 16px;
+    display: flex;
+    justify-content: space-between;
+    background-color: antiquewhite;
+    margin: 10px;
+}
+.menu{
+    display: flex;
+}
+.ring{
+    display: flex;
+    
+}
+.ring div{
+    padding: 10px ;
+}

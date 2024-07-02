@@ -1,0 +1,111 @@
+.container {
+    display: flex;
+}
+
+.container .b1{
+    color: white;
+    background-color: rgb(208, 7, 208);
+    border: none;
+    border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    margin:10px ;
+    font-size: 50px;
+    opacity: 50%;
+}
+.container .content{
+    display: flex;
+    flex-direction: column;
+    
+}
+.container .content .title1{
+    margin-top: 10px ;
+}
+.container .content .para{
+    margin-top: -10px;
+    font-size:small ;
+}
+
+/* ngang cach H1 voi h2 */
+
+.container2{
+    display: flex;
+}
+.container2 .b2{
+    color: white;
+    background-color: rgb(208, 7, 208);
+    border: none;
+    border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    margin:10px ;
+    font-size: 50px;
+    opacity: 50%;
+}
+.container2 .content2{
+    display: flex;
+    flex-direction: column;
+}
+.container2 .content2 .title2{
+    margin-top: 10px ;
+}
+.container2 .content2 .para2{
+    margin-top: -10px;
+    font-size: small;
+}
+
+/* ngang cach h2 voi h3 */
+
+.container3{
+    display: flex;
+}
+.container3 .content3{
+    display:flex;
+    flex-direction: column;
+}
+.container3 .b3{
+    color: white;
+    background-color: rgb(208, 7, 208);
+    border: none;
+    border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    margin:10px ;
+    font-size: 50px;
+    opacity: 50%;
+}
+.container3 .content3 .title3{
+    margin-top: 10px;
+}
+.container3 .content3 .para3{
+    margin-top: -10px;
+    font-size: small;
+}
+
+/* ngan cach h3 voi h4 */
+
+.div1{
+    display: flex;
+}
+.div1 .div2{
+    display: flex;
+    flex-direction: column;
+}
+.div1 .b4{
+    color: white;
+    background-color: rgb(208, 7, 208);
+    border: none;
+    border-radius: 5px;
+    width: 70px;
+    height: 70px;
+    margin:10px ;
+    font-size: 50px;
+    opacity: 50%;
+}
+.div2 .title4{
+    margin-top: 10px;
+}
+.div2 .para4{
+    margin-top: -10px;
+    font-size: small;
+}

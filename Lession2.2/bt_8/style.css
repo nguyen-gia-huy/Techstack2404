@@ -1,0 +1,32 @@
+.input{
+    width: 250px;
+    border-radius: 5px;
+    border-color: gray;
+    margin: 10px;
+}
+.input2{
+    width: 230px;
+    border-radius: 5px;
+    border-color: gray;
+    margin: 10px;
+}
+.input3{
+    width: 510px ;
+    border-radius: 5px;
+    margin: 10px;
+}
+.input4{
+    width: 510px;
+    border-radius: 5px;
+    margin: 10px;
+    height: 100px;
+    border-color:black;
+
+}
+.button{
+    margin: 10px;
+    background-color: rgb(0, 174, 255);
+    border: none;
+    color: white;
+    border-radius: 5px;
+}

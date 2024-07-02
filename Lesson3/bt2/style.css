@@ -1,0 +1,84 @@
+.container{
+	position: relative;
+    background-color:#B3B3B3 ;
+    width: 700px;
+    height: 400px;
+}
+.target-year{
+    left: 50%;
+    top: 50%;
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    padding-top: 25px;
+    border: 2px solid #E3B23E;
+    background-color:#FFE6CC ;
+    text-align: center;
+}
+.target-m2{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    width: 150px;
+    height: 50px;
+    padding-top: 25px ;
+    text-align: center;
+    background-color: #008A00;
+    border: 2px solid #057D05 ;
+}
+.target-m1{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    border: 2px solid #60A917;
+    background-color: #057D05;
+    text-align: center;
+    padding-top: 25px;
+    left: 15%;
+    top: 30%;
+}
+.target-m6{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color:#0050EF ;
+    border: 2px solid #0420BC;
+    text-align: center;
+    padding-top: 25px;
+    left: 15%;
+    bottom: 20%;
+}
+.target-m5{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color:#D80073 ;
+    border: 2px solid #D2006E;
+    text-align: center;
+    padding-top: 25px;
+    left: 50%;
+    bottom: 5%;
+}
+
+.target-m3{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color:#1BA1E2 ;
+    border: 2px solid #1896D6 ;
+    text-align: center;
+    padding-top: 25px;
+    right: 1%;
+    top: 30%
+}
+.target-m4{
+    position: absolute;
+    width: 150px;
+    height: 50px;
+    background-color:#A20025 ;
+    border: 2px solid #A20025 ;
+    text-align: center;
+    padding-top: 25px;
+    right: 1%;
+    bottom: 20%;
+}

@@ -1,0 +1,115 @@
+.container{
+    width: 1500px;
+    height: 800px;
+    border: 2px solid black;
+    position: absolute;
+}
+.h1{
+    display: flex;
+    position: relative;
+    left: 130px;
+    top: 20px;
+    font-size: 50px;
+}
+
+.top2{
+    top: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.Search{
+    font-size: 30px;
+    height: 50px;
+}
+.menu{
+    display: flex;
+    
+}
+.page{
+    width: 100px;
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+.pagex{
+    border-radius: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 20px;
+    text-align: center;
+    display: flex;
+    align-content: center;
+    color: white;
+    background-color: #849FFF;
+    border: none;
+}
+
+.bot{
+    margin: 120px;
+
+    flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+}
+.m1{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+
+
+}
+.m2{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.m3{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.m4{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.m5{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.m6{
+    margin: 5px;
+    height: 200px;
+    width: 400px;
+    border-radius: 10px;
+}
+.in4-1{
+    display: flex;
+    position: absolute;
+    
+}
+.in4-1-1{
+    border: 2px solid #849FFF;
+    font-size: medium;
+    padding: 5px;
+    border-radius: 5px;
+    color: #849FFF;
+}
+.in4-1-2{
+    border: 2px solid #849FFF;
+    position: relative;
+    left: 5px;
+    font-size: medium;
+    padding: 5px;
+    border-radius: 5px;
+    color: #849FFF;
+}

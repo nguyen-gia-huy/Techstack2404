@@ -1,0 +1,21 @@
+.img{
+    width: 200px;
+    border-radius: 5px;
+}
+.para{
+    font-size: small;
+}
+.price{
+    color: blue;
+}
+.b1{
+    border: none;
+    color: white;
+    background-color: blue;
+    border-radius: 3px;
+}
+.b2{
+    color: blue;
+    border: none;
+    background-color: white;
+}

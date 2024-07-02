@@ -1,0 +1,79 @@
+.container{
+    border: 2px solid black;
+    width: 700px;
+    height: 1000px;
+}
+.top{
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    height: 70px;
+    background-color:#FFF2CC ;
+}
+.menu1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+.page{
+    border: 2px solid black;
+    text-align: center;
+    align-content: center;
+    width: 120px;
+    height: 100px;
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #F8CECC;
+}
+.menu2{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.submenu{
+    border: 2px solid black;
+    text-align: center;
+    width: 335px;
+    margin: 5px;
+    height: 200px;
+    text-align: center;
+    align-content: center;
+    background-color: #FFFF88;
+}
+.bot{
+    display: flex;
+    
+}
+.b1{
+    margin: 5px;
+    border: 2px solid black;
+    width: 300px;
+    height: 255px;
+    text-align: center;
+    align-content: center;
+    background-color: #CDEB8B;
+}
+.b2{
+    flex-wrap: wrap;
+    margin: 5px;
+    width: 380px;
+}
+.sb21{
+    border: 2px solid black;
+    height: 150px;
+    text-align: center;
+    align-content: center;
+    background-color: #FFCCCC;
+}
+.sb2{
+    border: 2px solid black;
+    margin-top: 5px;
+    height: 95px;
+    text-align: center;
+    align-content: center;
+    background-color: #FFCC99;
+}

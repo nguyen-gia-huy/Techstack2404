@@ -1,0 +1,42 @@
+.container{
+    border: 2px solid black;
+    width: 600px;
+    height: 500px;
+    display: flex;
+}
+.left{
+    margin: 5px;
+    border: 2px solid black;
+    align-content: center;
+    padding: 5px;
+    background-color:#F8CECC ;
+}
+.right_menu{
+    display:block;
+    text-align: center;
+    align-content: center;
+    width: 500px;
+}
+.top{
+    border: 2px solid black;
+    margin: 5px;
+    height: 50px;
+    align-content: center;
+    text-align: center;
+    background-color: #FFF2CC;    
+}
+.mid{
+    border: 2px solid black;
+    margin: 5px;
+    height: 370px;
+    align-content: center;
+   background-color: #D5E8D4;
+}
+.bot{
+    border: 2px solid black;
+    margin: 5px;
+    height: 50px;
+    align-content: center;
+    text-align: center;
+    background-color:#FFF2CC ;
+}

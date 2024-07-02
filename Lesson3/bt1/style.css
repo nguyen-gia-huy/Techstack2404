@@ -1,0 +1,28 @@
+.container{
+    background-color: #DAE8FC;
+    width: 500px;
+    border: 1px solid black;
+}
+.title1{
+    border: 2px solid #E9BC5A;
+    margin: 30px;
+    text-align: center;
+    background-color: bisque;
+    
+}
+.paragraph{
+    border: 2px solid #C58386;
+    margin: 30px;
+    padding: 10px;
+    background-color:#F8CECC ;
+    
+}
+.nut{
+    position: relative;
+    bottom: 20px;
+    left: 30px;
+    background-color: #1BA1E2;
+    border: 2px solid #07466a ;
+    border-radius: 3px;
+    color: white;
+} 

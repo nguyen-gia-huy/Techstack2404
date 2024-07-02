@@ -1,0 +1,37 @@
+.container{
+    width: 600px;
+    height: 730px;
+    border: 1px solid black;
+}
+.h1{
+    width: auto;
+    height: 70px;
+    text-align: center;
+    background-color:#FFF2CC ;
+    margin: 5px;
+    border: 2px solid black;
+    padding-top: 35px;
+}
+.h2{
+    display: flex;
+    
+}
+.sub1{
+    width: 120px;
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    padding-top: 50%;
+    padding-bottom: 46%;
+    background-color:#F8CECC;
+    height: auto;
+}
+.sub2{
+    border: 2px solid black;
+    margin: 5px;
+    justify-content: end;
+    width: 500px;
+    text-align: center;
+    padding-top: 50%;
+    background-color: #D5E8D4;
+}

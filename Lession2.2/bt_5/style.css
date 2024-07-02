@@ -1,0 +1,24 @@
+.letter{
+    text-align: center;
+    margin: 100px;
+    padding: 20px;
+    background-color: gray;
+    height: 720px;
+}
+.title{
+    font-family:'Courier New', Courier, monospace
+}
+.input{
+    width: 350px;
+    height: 40px;
+    font-size: medium;
+}
+.button{
+    margin: 20px;
+    color: white;
+    background-color: rgb(15, 177, 142);
+    border: none;
+    width: 200px;
+    height: 50px ;
+    border-radius: 8px;
+}

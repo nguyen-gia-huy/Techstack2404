@@ -1,0 +1,24 @@
+.picture{
+    font-size: 100px;
+    width: 800px;
+    height: 500px;
+    color: white;
+    background-color: gray;
+    border: none;
+
+    
+}
+
+p{
+    color: grey;
+}
+
+.picture2{
+    color: white;
+    background-color: rgb(70, 236, 236);
+    border: none;
+    font-size: medium;
+    width: 150px;
+    height: 60px;
+
+}

@@ -1,0 +1,44 @@
+.container{
+    border: 2px solid black;
+    width: 900px;
+    height: 800px;
+}
+.top{
+    border: 2px solid black;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    height: 70px;
+}
+.left{
+    justify-content: flex-start;
+    margin: 5px;
+    border: 2px solid black;
+    width: 150px;
+    height: 700px;
+    text-align: center;
+    align-content: center;
+
+}
+.page{
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    margin: 5px;
+    text-align: center;
+    align-content: center;
+    
+}
+.menu1{
+    display: flex;  
+}
+.menu2{
+    display: flex;
+}
+.bot{
+    border: 2px solid black;
+    margin: 5px;
+    height: 172px;
+    text-align: center;
+    align-content: center;
+}

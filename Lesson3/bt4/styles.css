@@ -1,0 +1,55 @@
+/* Thiết lập cơ bản cho menu chính */
+.container {
+    width: 200px;
+    background-color: #e6f0ff;
+    padding: 10px;
+    width: 320px;
+    border: 2px solid blue;
+    position: relative;
+}
+
+
+.menu {
+    display: flex;
+    background-color: #f0e68c;
+    padding: 10px;
+    border: 1px solid #ccc;
+    width: 300px;
+    position: relative;
+    
+}
+
+.menu-item {
+    margin: 0 20px;
+    padding-left:10px;
+    padding-right: 10px;
+    border: 2px solid black;
+    position: relative;
+}
+
+/* Thiết lập cho submenu */
+.submenu {
+    display: none;
+    position: absolute;
+    top: 40px; /* Điều chỉnh dựa trên chiều cao của menu */
+    left: 0;
+    background-color: #f0f0f0;
+    border: 2px solid black;
+   
+    
+}
+
+.submenu div {
+    padding: 10px;
+    white-space: nowrap;
+    border: 1px solid black;
+}
+
+.submenu div:hover {
+    background-color: #ddd;
+}
+
+/* Hiển thị submenu khi hover */
+.menu-item:hover .submenu {
+    display: block;
+}
