@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <ul id="favorite-list">
+        <li class="favorite-list-item">xe</li>
+        <li class="favorite-list-item">nha</li>
+        <li class="favorite-list-item">maytinh</li>
+    </ul>
+    <input type="text" id="new-item-text" placeholder="Enter new item">
+    <button onclick="addItem()">Add Item</button>
+
+    <button onclick="logger()">Hello</button>
+    <button id="btn"> bye bye</button>
+    <script src="script.js"></script>
+    <script>
+        function logger(){
+            alert('hello')
+        }
+        function sayBye1(){
+            alert('say bye 1')
+        }
+        function sayBye2(){
+            alert('say bye 2')
+        }
+        const $btn = document.getElementById('btn');
+        // $btn.onclick = sayBye1;
+        // $btn.onclick = sayBye2;
+        $btn.addEventListener('click', sayBye1);
+        $btn.addEventListener('click', sayBye2)
+    </script>
+</body>
+</html>
